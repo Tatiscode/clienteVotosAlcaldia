@@ -7,7 +7,7 @@ export const Login = () => {
    
           <div className="grid place-content-center">
 
-        <div className=" w-full md:w-[500px] shadow-xl m-auto  my-10 border rounded-[10px]"> 
+        <div className=" w-full md:w-[500px] shadow-xl m-auto  my-28 border rounded-[10px]"> 
               <div className="mx-2 md:my-0  ">
              
              <div className="px-6 py-10">
