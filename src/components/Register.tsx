@@ -1,6 +1,6 @@
-import { Formik } from "formik";
+
 import { Link } from "react-router-dom";
-import * as Yup from "yup";
+
 
 export const Register = () => {
   return (

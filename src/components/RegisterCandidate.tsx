@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom"
+
 export const RegisterCandidate = () => {
   return (
     <div className="mx-2 my-20 sm:my-auto">
