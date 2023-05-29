@@ -6,8 +6,8 @@ export const Login = () => {
      
    
           
-        <div className="w-[500px] shadow-xl border rounded-[10px]">
-              <div className="mx-2 my-20 sm:my-auto     ">
+        <div className=" w-full md:w-[500px] shadow-xl border rounded-[10px]"> 
+              <div className="mx-2 md:my-0  sm:my-auto     ">
              
              <div className="
                  px-6 py-10  
