@@ -37,7 +37,7 @@ export const Login = () => {
                  </div>
                      
      
-                    <Link to="/FilterPerson">
+                    <Link to="/RegisterSeeCandidato">
                    
                      <button type="submit"
                          className="w-full py-3 mt-3 bg-gray-800 rounded-sm

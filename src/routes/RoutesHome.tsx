@@ -6,6 +6,7 @@ import { EmailRecoverPassword } from '../components/EmailRecoverPassword'
 import { CodeRecoverPassword } from '../components/CodeRecoverPassword'
 import { RestorePassword } from '../components/RestorePassword'
 import { FormPerson } from '../components/FormPerson'
+import { RegisterLider } from '../components/RegisterLider'
 export const RoutesHome = () => {
   return (
 
@@ -18,6 +19,7 @@ export const RoutesHome = () => {
     <Route path='CodeRecoverPassword' element={<CodeRecoverPassword/>}/>
     <Route path='/RestorePassword' element={<RestorePassword/>}/>
     <Route path='/FilterPerson' element={<FormPerson/>}/>
+    <Route path='/RegisterSeeCandidato' element={<RegisterLider/>}/>
     </Routes>
 
     </>
