@@ -5,9 +5,9 @@ export const Login = () => {
     return (
      
    
-          <div className="grid place-content-center">
+          <div className="">
 
-        <div className=" w-full md:w-[500px] shadow-xl m-auto  my-28 border rounded-[10px]"> 
+        <div className=" h-fit w-full md:w-[500px] shadow-xl m-auto  absolute  inset-0 my-auto  border rounded-[10px]"> 
               <div className="mx-2 md:my-0  ">
              
              <div className="px-6 py-10">
