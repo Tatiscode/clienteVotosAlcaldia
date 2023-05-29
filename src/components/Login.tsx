@@ -16,7 +16,7 @@ export const Login = () => {
      
                 
                  <h2 className="text-center font-bold text-3xl lg:text-4xl text-gray-800">
-                     Iniciar sesión
+                     hola hamilton
                  </h2>
      
                  <form className="mt-3" method="POST">
