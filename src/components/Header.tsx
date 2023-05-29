@@ -22,10 +22,12 @@ export const Header = () => {
         </a>
       
         <nav className="flex items-center justify-center text-base md:ml-auto">
-            <Link to="/RegisterSeeCandidato">
-            <a href="#_" className="mr-5 font-medium hover:text-gray-900">Lideres</a>
+            <Link to="/RegisterSeeLideres">
+            <span className="mr-5 font-medium hover:text-gray-900">Lideres</span>
             </Link>
-            <a href="#_" className="mr-5 font-medium hover:text-gray-900">Candidatos</a>
+            <Link to="/RegisterSeeCandidatos">
+            <span className="mr-5 font-medium hover:text-gray-900">Candidatos</span>
+            </Link>
             
         <div className="items-center h-full pl-6 ml-6 ">
             <a href="#_"
