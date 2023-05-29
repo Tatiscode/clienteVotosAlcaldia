@@ -7,7 +7,7 @@ export const Login = () => {
    
           <div className="">
 
-        <div className=" h-fit w-[95%] md:w-[500px] shadow-xl m-auto  absolute  inset-0 my-auto  border rounded-[10px] "> 
+        <div className=" h-fit w-[90%] md:w-[500px] shadow-xl m-auto  absolute  inset-0 my-auto  border rounded-[10px] "> 
               <div className="mx-2 md:my-0  ">
              
              <div className="px-6 py-10">
