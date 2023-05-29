@@ -5,8 +5,9 @@ export const Login = () => {
     return (
      
    
-          
-        <div className=" w-full md:w-[500px] shadow-xl border rounded-[10px]"> 
+          <div className="grid place-content-center">
+
+        <div className=" w-full md:w-[500px] shadow-xl m-auto  my-10 border rounded-[10px]"> 
               <div className="mx-2 md:my-0  ">
              
              <div className="px-6 py-10">
@@ -64,6 +65,7 @@ export const Login = () => {
                  </form>
              </div>
          </div>
+          </div>
         </div>
   
     )
